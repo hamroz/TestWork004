@@ -1,8 +1,10 @@
 <?php
+
 /**
  * Register and load the widget.
  */
-function load_city_temperature_widget() {
+function load_city_temperature_widget()
+{
     register_widget('City_Temperature_Widget');
 }
 add_action('widgets_init', 'load_city_temperature_widget');
@@ -12,12 +14,14 @@ add_action('widgets_init', 'load_city_temperature_widget');
  *
  * Widget to display city temperature.
  */
-class City_Temperature_Widget extends WP_Widget {
+class City_Temperature_Widget extends WP_Widget
+{
 
     /**
      * Register widget with WordPress.
      */
-    function __construct() {
+    function __construct()
+    {
         parent::__construct(
             'city_temperature_widget',
             __('City Temperature Widget', 'textdomain'),
@@ -31,7 +35,8 @@ class City_Temperature_Widget extends WP_Widget {
      * @param array $args     Widget arguments.
      * @param array $instance Saved values from database.
      */
-    public function widget($args, $instance) {
+    public function widget($args, $instance)
+    {
         $city_id = apply_filters('widget_city_id', $instance['city_id']);
 
         $city_name = get_the_title($city_id);
@@ -61,13 +66,14 @@ class City_Temperature_Widget extends WP_Widget {
      *
      * @param array $instance Previously saved values from database.
      */
-    public function form($instance) {
+    public function form($instance)
+    {
         if (isset($instance['city_id'])) {
             $city_id = $instance['city_id'];
         } else {
             $city_id = '';
         }
-        ?>
+?>
         <p>
             <label for="<?php echo $this->get_field_id('city_id'); ?>"><?php _e('Select City:', 'textdomain'); ?></label>
             <select class="widefat" id="<?php echo $this->get_field_id('city_id'); ?>" name="<?php echo $this->get_field_name('city_id'); ?>">
@@ -79,7 +85,7 @@ class City_Temperature_Widget extends WP_Widget {
                 ?>
             </select>
         </p>
-        <?php
+<?php
     }
 
     /**
@@ -90,7 +96,8 @@ class City_Temperature_Widget extends WP_Widget {
      *
      * @return array Updated safe values to be saved.
      */
-    public function update($new_instance, $old_instance) {
+    public function update($new_instance, $old_instance)
+    {
         $instance = array();
         $instance['city_id'] = (!empty($new_instance['city_id'])) ? strip_tags($new_instance['city_id']) : '';
         return $instance;

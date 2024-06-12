@@ -1,8 +1,10 @@
 <?php
+
 /**
  * Enqueue parent theme styles.
  */
-function enqueue_parent_styles() {
+function enqueue_parent_styles()
+{
     wp_enqueue_style('parent-style', get_template_directory_uri() . '/style.css');
 }
 add_action('wp_enqueue_scripts', 'enqueue_parent_styles');
@@ -10,7 +12,8 @@ add_action('wp_enqueue_scripts', 'enqueue_parent_styles');
 /**
  * Enqueue jQuery.
  */
-function enqueue_jquery() {
+function enqueue_jquery()
+{
     wp_enqueue_script('jquery');
 }
 add_action('wp_enqueue_scripts', 'enqueue_jquery');
@@ -27,7 +30,8 @@ if (file_exists(get_stylesheet_directory() . '/widgets/city-temperature-widget.p
 /**
  * Register Custom Post Type 'Cities'.
  */
-function create_cities_cpt() {
+function create_cities_cpt()
+{
     $labels = array(
         'name' => _x('Cities', 'Post Type General Name', 'textdomain'),
         'singular_name' => _x('City', 'Post Type Singular Name', 'textdomain'),
@@ -83,7 +87,8 @@ add_action('init', 'create_cities_cpt', 0);
 /**
  * Add Meta Box for Custom Fields.
  */
-function cities_add_meta_box() {
+function cities_add_meta_box()
+{
     add_meta_box(
         'cities_meta_box', // $id
         'City Details', // $title
@@ -100,11 +105,12 @@ add_action('add_meta_boxes', 'cities_add_meta_box');
  *
  * @param WP_Post $post The post object.
  */
-function cities_meta_box_callback($post) {
+function cities_meta_box_callback($post)
+{
     wp_nonce_field(basename(__FILE__), 'cities_nonce');
     $city_latitude = get_post_meta($post->ID, '_city_latitude', true);
     $city_longitude = get_post_meta($post->ID, '_city_longitude', true);
-    ?>
+?>
     <p>
         <label for="city_latitude">Latitude:</label>
         <input type="text" name="city_latitude" id="city_latitude" value="<?php echo esc_attr($city_latitude); ?>" />
@@ -113,7 +119,7 @@ function cities_meta_box_callback($post) {
         <label for="city_longitude">Longitude:</label>
         <input type="text" name="city_longitude" id="city_longitude" value="<?php echo esc_attr($city_longitude); ?>" />
     </p>
-    <?php
+<?php
 }
 
 /**
@@ -121,7 +127,8 @@ function cities_meta_box_callback($post) {
  *
  * @param int $post_id The post ID.
  */
-function save_cities_meta_box_data($post_id) {
+function save_cities_meta_box_data($post_id)
+{
     if (!isset($_POST['cities_nonce']) || !wp_verify_nonce($_POST['cities_nonce'], basename(__FILE__))) {
         return $post_id;
     }
@@ -143,7 +150,8 @@ add_action('save_post', 'save_cities_meta_box_data');
 /**
  * Register Custom Taxonomy 'Countries'.
  */
-function create_countries_taxonomy() {
+function create_countries_taxonomy()
+{
     $labels = array(
         'name' => _x('Countries', 'Taxonomy General Name', 'textdomain'),
         'singular_name' => _x('Country', 'Taxonomy Singular Name', 'textdomain'),
@@ -182,12 +190,14 @@ add_action('init', 'create_countries_taxonomy', 0);
 /**
  * Add custom action hooks before and after the cities table.
  */
-function before_cities_table_action() {
+function before_cities_table_action()
+{
     echo '<p>Custom content before the cities table.</p>';
 }
 add_action('before_cities_table', 'before_cities_table_action');
 
-function after_cities_table_action() {
+function after_cities_table_action()
+{
     echo '<p>Custom content after the cities table.</p>';
 }
 add_action('after_cities_table', 'after_cities_table_action');
@@ -195,7 +205,8 @@ add_action('after_cities_table', 'after_cities_table_action');
 /**
  * Handle AJAX request for searching cities.
  */
-function search_cities() {
+function search_cities()
+{
     global $wpdb;
     $search_term = sanitize_text_field($_POST['search_term']);
 
