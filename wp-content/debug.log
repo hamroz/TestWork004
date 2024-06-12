@@ -1,0 +1,282 @@
+[12-Jun-2024 21:52:20 UTC] PHP Warning:  require(/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront/widgets/city-temperature-widget.php): Failed to open stream: No such file or directory in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:52:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront/widgets/city-temperature-widget.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php:9
+Stack trace:
+#0 /home/u419124460/domains/matitech.live/public_html/wp-settings.php(663): include()
+#1 /home/u419124460/domains/matitech.live/public_html/wp-config.php(106): require_once('/home/u41912446...')
+#2 /home/u419124460/domains/matitech.live/public_html/wp-load.php(50): require_once('/home/u41912446...')
+#3 /home/u419124460/domains/matitech.live/public_html/wp-admin/admin.php(34): require_once('/home/u41912446...')
+#4 /home/u419124460/domains/matitech.live/public_html/wp-admin/widgets.php(10): require_once('/home/u41912446...')
+#5 {main}
+  thrown in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:52:21 UTC] PHP Warning:  require(/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront/widgets/city-temperature-widget.php): Failed to open stream: No such file or directory in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:52:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront/widgets/city-temperature-widget.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php:9
+Stack trace:
+#0 /home/u419124460/domains/matitech.live/public_html/wp-settings.php(663): include()
+#1 /home/u419124460/domains/matitech.live/public_html/wp-config.php(106): require_once('/home/u41912446...')
+#2 /home/u419124460/domains/matitech.live/public_html/wp-load.php(50): require_once('/home/u41912446...')
+#3 /home/u419124460/domains/matitech.live/public_html/wp-admin/admin.php(34): require_once('/home/u41912446...')
+#4 /home/u419124460/domains/matitech.live/public_html/wp-admin/widgets.php(10): require_once('/home/u41912446...')
+#5 {main}
+  thrown in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:52:23 UTC] PHP Warning:  require(/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront/widgets/city-temperature-widget.php): Failed to open stream: No such file or directory in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:52:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront/widgets/city-temperature-widget.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php:9
+Stack trace:
+#0 /home/u419124460/domains/matitech.live/public_html/wp-settings.php(663): include()
+#1 /home/u419124460/domains/matitech.live/public_html/wp-config.php(106): require_once('/home/u41912446...')
+#2 /home/u419124460/domains/matitech.live/public_html/wp-load.php(50): require_once('/home/u41912446...')
+#3 /home/u419124460/domains/matitech.live/public_html/wp-admin/admin.php(34): require_once('/home/u41912446...')
+#4 /home/u419124460/domains/matitech.live/public_html/wp-admin/widgets.php(10): require_once('/home/u41912446...')
+#5 {main}
+  thrown in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:52:27 UTC] PHP Warning:  require(/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront/widgets/city-temperature-widget.php): Failed to open stream: No such file or directory in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:52:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront/widgets/city-temperature-widget.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php:9
+Stack trace:
+#0 /home/u419124460/domains/matitech.live/public_html/wp-settings.php(663): include()
+#1 /home/u419124460/domains/matitech.live/public_html/wp-config.php(106): require_once('/home/u41912446...')
+#2 /home/u419124460/domains/matitech.live/public_html/wp-load.php(50): require_once('/home/u41912446...')
+#3 /home/u419124460/domains/matitech.live/public_html/wp-admin/admin.php(34): require_once('/home/u41912446...')
+#4 /home/u419124460/domains/matitech.live/public_html/wp-admin/index.php(10): require_once('/home/u41912446...')
+#5 {main}
+  thrown in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:52:30 UTC] PHP Warning:  require(/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront/widgets/city-temperature-widget.php): Failed to open stream: No such file or directory in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:52:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront/widgets/city-temperature-widget.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php:9
+Stack trace:
+#0 /home/u419124460/domains/matitech.live/public_html/wp-settings.php(663): include()
+#1 /home/u419124460/domains/matitech.live/public_html/wp-config.php(106): require_once('/home/u41912446...')
+#2 /home/u419124460/domains/matitech.live/public_html/wp-load.php(50): require_once('/home/u41912446...')
+#3 /home/u419124460/domains/matitech.live/public_html/wp-admin/admin.php(34): require_once('/home/u41912446...')
+#4 /home/u419124460/domains/matitech.live/public_html/wp-admin/index.php(10): require_once('/home/u41912446...')
+#5 {main}
+  thrown in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:52:45 UTC] PHP Warning:  require(/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront/widgets/city-temperature-widget.php): Failed to open stream: No such file or directory in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:52:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront/widgets/city-temperature-widget.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php:9
+Stack trace:
+#0 /home/u419124460/domains/matitech.live/public_html/wp-settings.php(663): include()
+#1 /home/u419124460/domains/matitech.live/public_html/wp-config.php(106): require_once('/home/u41912446...')
+#2 /home/u419124460/domains/matitech.live/public_html/wp-load.php(50): require_once('/home/u41912446...')
+#3 /home/u419124460/domains/matitech.live/public_html/wp-admin/admin.php(34): require_once('/home/u41912446...')
+#4 /home/u419124460/domains/matitech.live/public_html/wp-admin/index.php(10): require_once('/home/u41912446...')
+#5 {main}
+  thrown in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:52:46 UTC] PHP Warning:  require(/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront/widgets/city-temperature-widget.php): Failed to open stream: No such file or directory in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:52:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront/widgets/city-temperature-widget.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php:9
+Stack trace:
+#0 /home/u419124460/domains/matitech.live/public_html/wp-settings.php(663): include()
+#1 /home/u419124460/domains/matitech.live/public_html/wp-config.php(106): require_once('/home/u41912446...')
+#2 /home/u419124460/domains/matitech.live/public_html/wp-load.php(50): require_once('/home/u41912446...')
+#3 /home/u419124460/domains/matitech.live/public_html/wp-admin/admin.php(34): require_once('/home/u41912446...')
+#4 /home/u419124460/domains/matitech.live/public_html/wp-admin/index.php(10): require_once('/home/u41912446...')
+#5 {main}
+  thrown in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:52:47 UTC] PHP Warning:  require(/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront/widgets/city-temperature-widget.php): Failed to open stream: No such file or directory in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:52:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront/widgets/city-temperature-widget.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php:9
+Stack trace:
+#0 /home/u419124460/domains/matitech.live/public_html/wp-settings.php(663): include()
+#1 /home/u419124460/domains/matitech.live/public_html/wp-config.php(106): require_once('/home/u41912446...')
+#2 /home/u419124460/domains/matitech.live/public_html/wp-load.php(50): require_once('/home/u41912446...')
+#3 /home/u419124460/domains/matitech.live/public_html/wp-admin/admin.php(34): require_once('/home/u41912446...')
+#4 /home/u419124460/domains/matitech.live/public_html/wp-admin/index.php(10): require_once('/home/u41912446...')
+#5 {main}
+  thrown in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:52:47 UTC] PHP Warning:  require(/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront/widgets/city-temperature-widget.php): Failed to open stream: No such file or directory in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:52:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront/widgets/city-temperature-widget.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php:9
+Stack trace:
+#0 /home/u419124460/domains/matitech.live/public_html/wp-settings.php(663): include()
+#1 /home/u419124460/domains/matitech.live/public_html/wp-config.php(106): require_once('/home/u41912446...')
+#2 /home/u419124460/domains/matitech.live/public_html/wp-load.php(50): require_once('/home/u41912446...')
+#3 /home/u419124460/domains/matitech.live/public_html/wp-admin/admin.php(34): require_once('/home/u41912446...')
+#4 /home/u419124460/domains/matitech.live/public_html/wp-admin/index.php(10): require_once('/home/u41912446...')
+#5 {main}
+  thrown in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:52:51 UTC] PHP Warning:  require(/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront/widgets/city-temperature-widget.php): Failed to open stream: No such file or directory in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:52:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront/widgets/city-temperature-widget.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php:9
+Stack trace:
+#0 /home/u419124460/domains/matitech.live/public_html/wp-settings.php(663): include()
+#1 /home/u419124460/domains/matitech.live/public_html/wp-config.php(106): require_once('/home/u41912446...')
+#2 /home/u419124460/domains/matitech.live/public_html/wp-load.php(50): require_once('/home/u41912446...')
+#3 /home/u419124460/domains/matitech.live/public_html/wp-admin/admin.php(34): require_once('/home/u41912446...')
+#4 /home/u419124460/domains/matitech.live/public_html/wp-admin/index.php(10): require_once('/home/u41912446...')
+#5 {main}
+  thrown in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:52:51 UTC] PHP Warning:  require(/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront/widgets/city-temperature-widget.php): Failed to open stream: No such file or directory in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:52:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront/widgets/city-temperature-widget.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php:9
+Stack trace:
+#0 /home/u419124460/domains/matitech.live/public_html/wp-settings.php(663): include()
+#1 /home/u419124460/domains/matitech.live/public_html/wp-config.php(106): require_once('/home/u41912446...')
+#2 /home/u419124460/domains/matitech.live/public_html/wp-load.php(50): require_once('/home/u41912446...')
+#3 /home/u419124460/domains/matitech.live/public_html/wp-admin/admin.php(34): require_once('/home/u41912446...')
+#4 /home/u419124460/domains/matitech.live/public_html/wp-admin/index.php(10): require_once('/home/u41912446...')
+#5 {main}
+  thrown in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:52:55 UTC] PHP Warning:  require(/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront/widgets/city-temperature-widget.php): Failed to open stream: No such file or directory in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:52:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront/widgets/city-temperature-widget.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php:9
+Stack trace:
+#0 /home/u419124460/domains/matitech.live/public_html/wp-settings.php(663): include()
+#1 /home/u419124460/domains/matitech.live/public_html/wp-config.php(106): require_once('/home/u41912446...')
+#2 /home/u419124460/domains/matitech.live/public_html/wp-load.php(50): require_once('/home/u41912446...')
+#3 /home/u419124460/domains/matitech.live/public_html/wp-admin/admin.php(34): require_once('/home/u41912446...')
+#4 /home/u419124460/domains/matitech.live/public_html/wp-admin/index.php(10): require_once('/home/u41912446...')
+#5 {main}
+  thrown in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:54:32 UTC] PHP Warning:  require(/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront/widgets/city-temperature-widget.php): Failed to open stream: No such file or directory in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:54:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront/widgets/city-temperature-widget.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php:9
+Stack trace:
+#0 /home/u419124460/domains/matitech.live/public_html/wp-settings.php(663): include()
+#1 /home/u419124460/domains/matitech.live/public_html/wp-config.php(106): require_once('/home/u41912446...')
+#2 /home/u419124460/domains/matitech.live/public_html/wp-load.php(50): require_once('/home/u41912446...')
+#3 /home/u419124460/domains/matitech.live/public_html/wp-admin/admin.php(34): require_once('/home/u41912446...')
+#4 /home/u419124460/domains/matitech.live/public_html/wp-admin/index.php(10): require_once('/home/u41912446...')
+#5 {main}
+  thrown in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:54:33 UTC] PHP Warning:  require(/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront/widgets/city-temperature-widget.php): Failed to open stream: No such file or directory in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:54:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront/widgets/city-temperature-widget.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php:9
+Stack trace:
+#0 /home/u419124460/domains/matitech.live/public_html/wp-settings.php(663): include()
+#1 /home/u419124460/domains/matitech.live/public_html/wp-config.php(106): require_once('/home/u41912446...')
+#2 /home/u419124460/domains/matitech.live/public_html/wp-load.php(50): require_once('/home/u41912446...')
+#3 /home/u419124460/domains/matitech.live/public_html/wp-admin/admin.php(34): require_once('/home/u41912446...')
+#4 /home/u419124460/domains/matitech.live/public_html/wp-admin/index.php(10): require_once('/home/u41912446...')
+#5 {main}
+  thrown in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:55:03 UTC] PHP Warning:  require(/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefrontcity-temperature-widget.php): Failed to open stream: No such file or directory in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:55:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefrontcity-temperature-widget.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php:9
+Stack trace:
+#0 /home/u419124460/domains/matitech.live/public_html/wp-settings.php(663): include()
+#1 /home/u419124460/domains/matitech.live/public_html/wp-config.php(106): require_once('/home/u41912446...')
+#2 /home/u419124460/domains/matitech.live/public_html/wp-load.php(50): require_once('/home/u41912446...')
+#3 /home/u419124460/domains/matitech.live/public_html/wp-admin/admin.php(34): require_once('/home/u41912446...')
+#4 /home/u419124460/domains/matitech.live/public_html/wp-admin/index.php(10): require_once('/home/u41912446...')
+#5 {main}
+  thrown in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:55:40 UTC] PHP Warning:  require(/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefrontcity-temperature-widget.php): Failed to open stream: No such file or directory in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:55:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefrontcity-temperature-widget.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php:9
+Stack trace:
+#0 /home/u419124460/domains/matitech.live/public_html/wp-settings.php(663): include()
+#1 /home/u419124460/domains/matitech.live/public_html/wp-config.php(106): require_once('/home/u41912446...')
+#2 /home/u419124460/domains/matitech.live/public_html/wp-load.php(50): require_once('/home/u41912446...')
+#3 /home/u419124460/domains/matitech.live/public_html/wp-admin/admin.php(34): require_once('/home/u41912446...')
+#4 /home/u419124460/domains/matitech.live/public_html/wp-admin/index.php(10): require_once('/home/u41912446...')
+#5 {main}
+  thrown in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:55:40 UTC] PHP Warning:  require(/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefrontcity-temperature-widget.php): Failed to open stream: No such file or directory in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:55:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefrontcity-temperature-widget.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php:9
+Stack trace:
+#0 /home/u419124460/domains/matitech.live/public_html/wp-settings.php(663): include()
+#1 /home/u419124460/domains/matitech.live/public_html/wp-config.php(106): require_once('/home/u41912446...')
+#2 /home/u419124460/domains/matitech.live/public_html/wp-load.php(50): require_once('/home/u41912446...')
+#3 /home/u419124460/domains/matitech.live/public_html/wp-admin/admin.php(34): require_once('/home/u41912446...')
+#4 /home/u419124460/domains/matitech.live/public_html/wp-admin/index.php(10): require_once('/home/u41912446...')
+#5 {main}
+  thrown in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 21:57:32 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:57:34 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:57:36 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:57:39 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:57:39 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:57:39 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:57:39 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:57:39 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:57:39 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:57:39 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:57:39 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:57:39 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:57:39 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:57:39 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:57:39 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:57:55 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:57:56 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:57:57 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:57:57 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:57:58 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:57:58 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:57:58 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:58:03 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:58:03 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:58:05 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:58:39 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:58:53 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:58:55 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:58:56 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:59:01 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:59:03 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:59:04 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:59:04 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:59:04 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:59:04 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:59:04 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:59:04 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:59:04 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:59:04 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:59:04 UTC] The custom widget file does not exist.
+[12-Jun-2024 21:59:04 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:00:03 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:02:04 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:04:04 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:06:04 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:08:04 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:08:37 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:08:37 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:10:04 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:11:28 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:11:30 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:11:32 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:11:32 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:11:32 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:11:32 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:11:32 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:11:32 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:11:32 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:11:32 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:11:33 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:11:33 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:11:33 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:11:51 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:11:52 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:12:05 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:12:06 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:12:06 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:12:06 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:12:06 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:12:06 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:12:06 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:12:06 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:12:06 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:12:06 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:12:06 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:12:07 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:12:07 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:12:07 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:12:08 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:12:08 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:12:09 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:12:10 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:12:14 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:13:15 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:14:15 UTC] The custom widget file does not exist.
+[12-Jun-2024 22:14:51 UTC] PHP Warning:  require(/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront/custom_widget.php): Failed to open stream: No such file or directory in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 22:14:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront/custom_widget.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php:9
+Stack trace:
+#0 /home/u419124460/domains/matitech.live/public_html/wp-settings.php(663): include()
+#1 /home/u419124460/domains/matitech.live/public_html/wp-config.php(106): require_once('/home/u41912446...')
+#2 /home/u419124460/domains/matitech.live/public_html/wp-load.php(50): require_once('/home/u41912446...')
+#3 /home/u419124460/domains/matitech.live/public_html/wp-admin/admin.php(34): require_once('/home/u41912446...')
+#4 /home/u419124460/domains/matitech.live/public_html/wp-admin/index.php(10): require_once('/home/u41912446...')
+#5 {main}
+  thrown in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 9
+[12-Jun-2024 22:18:23 UTC] PHP Warning:  Undefined array key "city_id" in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/widgets/city-temperature-widget.php on line 21
+[12-Jun-2024 22:18:23 UTC] PHP Warning:  Undefined array key "main" in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/widgets/city-temperature-widget.php on line 36
+[12-Jun-2024 22:18:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/widgets/city-temperature-widget.php on line 36
+[12-Jun-2024 22:18:23 UTC] PHP Warning:  Undefined array key "city_id" in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/widgets/city-temperature-widget.php on line 21
+[12-Jun-2024 22:18:24 UTC] PHP Warning:  Undefined array key "main" in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/widgets/city-temperature-widget.php on line 36
+[12-Jun-2024 22:18:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/widgets/city-temperature-widget.php on line 36
+[12-Jun-2024 22:32:13 UTC] PHP Fatal error:  Cannot redeclare enqueue_parent_styles() (previously declared in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php:3) in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 17
+[12-Jun-2024 22:32:15 UTC] PHP Fatal error:  Cannot redeclare enqueue_parent_styles() (previously declared in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php:3) in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 17
+[12-Jun-2024 22:40:43 UTC] PHP Warning:  Undefined array key "city_id" in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/widgets/city-temperature-widget.php on line 35
+[12-Jun-2024 22:40:44 UTC] PHP Warning:  Undefined array key "main" in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/widgets/city-temperature-widget.php on line 50
+[12-Jun-2024 22:40:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/widgets/city-temperature-widget.php on line 50
+[12-Jun-2024 22:40:44 UTC] PHP Warning:  Undefined array key "city_id" in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/widgets/city-temperature-widget.php on line 35
+[12-Jun-2024 22:40:44 UTC] PHP Warning:  Undefined array key "main" in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/widgets/city-temperature-widget.php on line 50
+[12-Jun-2024 22:40:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/widgets/city-temperature-widget.php on line 50
+[12-Jun-2024 22:40:44 UTC] PHP Warning:  Undefined array key "city_id" in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/widgets/city-temperature-widget.php on line 35
+[12-Jun-2024 22:40:44 UTC] PHP Warning:  Undefined array key "main" in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/widgets/city-temperature-widget.php on line 50
+[12-Jun-2024 22:40:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/widgets/city-temperature-widget.php on line 50
